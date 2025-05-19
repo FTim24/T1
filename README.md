@@ -19,7 +19,27 @@ exercicio2.js
 exercicio15.js
 
 ````
+---
 
+## 📌 Lista de Exercícios
+
+1. Comparação entre dois valores  
+2. Ordenação crescente de dois valores  
+3. Contagem regressiva de 10 a 1  
+4. Imprimir um número 10 vezes  
+5. Soma de 5 números  
+6. Verificação de paridade (par ou ímpar)  
+7. Média de 5 números  
+8. Ordenar dois números fornecidos  
+9. Repetir número com índice  
+10. Repetir número 10 vezes  
+11. Soma de 5 números com laço  
+12. Tabuada de 1 a 10  
+13. Média de números decimais até digitar 0  
+14. Cálculo do fatorial  
+15. Sequência de Fibonacci  
+
+---
 ---
 
 ## 🛠️ Tecnologias utilizadas
@@ -62,7 +82,9 @@ Execute os comandos abaixo dentro da pasta onde os arquivos estão salvos:
 npm init -y
 npm install prompt-sync
 ```
+O arquivo prompt-sync.js foi incluído diretamente no projeto. Portanto, não é necessário instalar a biblioteca via npm. Basta manter o arquivo na mesma pasta dos exercícios.
 
+Ou, se usou o npm install, mantenha como está.
 ---
 
 ### 4️⃣ Execute o exercício desejado
